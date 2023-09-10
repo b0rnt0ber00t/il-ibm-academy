@@ -1,0 +1,39 @@
+ID,Name,Asset1,Value1,Asset2,Value2
+139987,Guadalupe J. Martinez,Pension,0.13221,Mortgage,0.10675
+140030,Michelle M. Lopez,Savings,0.95678,Pension,0.84446
+140089,Terry L. Ridgley,Savings,0.95678,Pension,0.80233
+140097,Miranda B. Roush,Pension,0.13221,Mortgage,0.10675
+139068,Sandra J. Wynkoop,Pension,0.80506,Savings,0.28391
+139154,Roland Guérette,Pension,0.13221,Mortgage,0.10675
+139158,Fabien Mailhot,Pension,0.13221,Mortgage,0.10675
+139169,Christian Austerlitz,Pension,0.13221,Mortgage,0.10675
+139220,Steffen Meister,Pension,0.13221,Mortgage,0.10675
+139261,Wolfgang Sanger,Pension,0.13221,Mortgage,0.10675
+139416,Lee Tsou,Pension,0.13221,Mortgage,0.10675
+139422,Sanaa' Hikmah Hakimi,Pension,0.13221,Mortgage,0.10675
+139532,Miroslav Škaroupka,Savings,0.95676,Mortgage,0.82269
+139549,George Blomqvist,Savings,0.16428,Pension,0.13221
+139560,Will Henderson,Savings,0.95678,Pension,0.86779
+139577,Yuina Ohira,Pension,0.13225,Mortgage,0.10675
+139580,Vlad Alekseeva,Pension,0.13221,Mortgage,0.10675
+139636,Cassio Lombardo,Pension,0.13221,Mortgage,0.10675
+139647,Trinity Zelaya Miramontes,Savings,0.28934,Pension,0.13221
+139649,Eldar Muravyov,Pension,0.13221,Mortgage,0.10675
+139665,Shu T'an,Savings,0.95675,Pension,0.27248
+139667,Jameel Abdul-Ghani Gerges,Pension,0.13221,Mortgage,0.10675
+139696,Zeeb Longoria Marrero,Savings,0.16188,Pension,0.13221
+139752,Matheus Azevedo Melo,Pension,0.13221,Mortgage,0.10675
+139832,Earl B. Wood,Savings,0.95678,Pension,0.83426
+139859,Gabrielly Sousa Martins,Savings,0.95678,Pension,0.75925
+139881,Franca Palermo,Pension,0.13221,Mortgage,0.10675
+
+Product,Value,Budget Share
+Car loan,100,0.6
+Savings,200,0.1
+Mortgage,300,0.2
+Pension,400,0.1
+
+Channel,Cost,Factor
+n,a,m,e
+c,o,s,t
+f,a,c,t,o,r
