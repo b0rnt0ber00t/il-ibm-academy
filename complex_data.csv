@@ -26,14 +26,3 @@ ID,Name,Asset1,Value1,Asset2,Value2
 139832,Earl B. Wood,Savings,0.95678,Pension,0.83426
 139859,Gabrielly Sousa Martins,Savings,0.95678,Pension,0.75925
 139881,Franca Palermo,Pension,0.13221,Mortgage,0.10675
-
-Product,Value,Budget Share
-Car loan,100,0.6
-Savings,200,0.1
-Mortgage,300,0.2
-Pension,400,0.1
-
-Channel,Cost,Factor
-n,a,m,e
-c,o,s,t
-f,a,c,t,o,r
